@@ -8,15 +8,20 @@
 
   <ItemGroup>
     <None Remove="Data\commands.xml" />
+    <None Remove="Data\home.xml" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Include="Data\commands.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Data\home.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 

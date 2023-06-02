@@ -36,3 +36,8 @@ D:\Egyetem\projektmunka\VoiceAssistant\VoiceAssistant\VoiceAssistant\VoiceAssist
 D:\Egyetem\projektmunka\VoiceAssistant\VoiceAssistant\VoiceAssistant\VoiceAssistant\obj\Debug\net6.0\VoiceAssistant.pdb
 D:\Egyetem\projektmunka\VoiceAssistant\VoiceAssistant\VoiceAssistant\VoiceAssistant\obj\Debug\net6.0\VoiceAssistant.genruntimeconfig.cache
 D:\Egyetem\projektmunka\VoiceAssistant\VoiceAssistant\VoiceAssistant\VoiceAssistant\obj\Debug\net6.0\ref\VoiceAssistant.dll
+D:\Egyetem\projektmunka\VoiceAssistant\VoiceAssistant\VoiceAssistant\VoiceAssistant\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Egyetem\projektmunka\VoiceAssistant\VoiceAssistant\VoiceAssistant\VoiceAssistant\bin\Debug\net6.0\reactdashboard\package-lock.json
+D:\Egyetem\projektmunka\VoiceAssistant\VoiceAssistant\VoiceAssistant\VoiceAssistant\bin\Debug\net6.0\reactdashboard\package.json
+D:\Egyetem\projektmunka\VoiceAssistant\VoiceAssistant\VoiceAssistant\VoiceAssistant\bin\Debug\net6.0\reactdashboard\public\manifest.json
+D:\Egyetem\projektmunka\VoiceAssistant\VoiceAssistant\VoiceAssistant\VoiceAssistant\bin\Debug\net6.0\Data\home.xml
